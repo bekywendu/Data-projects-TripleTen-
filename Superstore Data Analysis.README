@@ -1,0 +1,40 @@
+
+# Superstore Data Analysis
+Project Name:
+Saving SuperStore: Data-Driven Strategies for Profitability
+
+This project analyzes the Superstore dataset to identify key insights into profits, losses, and customer behavior. The analysis is visualized using Tableau.
+Profits & Losses Analysis
+
+Identify top profit generators and biggest loss-makers based on product categories, regions, and sales trends.
+
+Recommend which products and subcategories should be prioritized or discontinued to maximize profitability.
+
+Advertising Strategy Optimization
+
+Determine the most profitable states and months for targeted advertising campaigns.
+
+Use data-driven return on ad spend (ROAS) calculations to recommend an optimal advertising budget allocation.
+
+Return Rate Analysis & Risk Mitigation
+
+Analyze high-return products and customers to identify trends in product dissatisfaction.
+
+Correlate return rates with profitability across different business dimensions to develop strategies for minimizing financial losses due to returns.
+
+## Tableau Workbook
+
+You can view the interactive Tableau workbook on Tableau Public:  
+
+https://public.tableau.com/views/projectT5F/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Key Objectives Completed
+- Identified the top 3 profit centers and loss-makers.
+- Recommended products and subcategories to focus on or discontinue.
+- Analyzed return rates and advertising opportunities.
+
+## Data Sources
+- Superstore dataset.
+
+## Author
+Bereket 
