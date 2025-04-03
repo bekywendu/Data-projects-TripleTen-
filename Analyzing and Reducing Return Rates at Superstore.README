@@ -1,0 +1,54 @@
+Title: Analyzing and Reducing Return Rates at Superstore
+
+Through this Tableau dashboard, I have analyzed return trends to uncover the key factors influencing high return rates. 
+By examining product categories, customer behavior, shipping methods, and geographical variations
+Finding: Impact of Order Quantity on Return Rates
+
+This analysis reveals a strong correlation between orders where the same Order ID appears more than 8 times on the same date
+ and increased return rates. This trend suggests that bulk purchases may be more prone to returns, potentially due to issues related
+to shipping, handling. One possible explanation is that larger shipments are
+more susceptible to damage during transit, leading to a higher likelihood of returns.
+In this analysis we calculate return rate as follows:
+
+Return Rate (%) = (Total Returns / Total Orders) × 100
+
+Best for: Understanding the proportion of orders being returned.
+
+- If you’re focusing on customer behavior, use return rate.
+- If you’re concerned about financial losses, track return cost.
+- If you’re managing operations & logistics, monitor total return count.
+
+-You can view the interactive Tableau workbook on Tableau Public:
+
+https://public.tableau.com/views/project6_17411488319310/UnderstandingTheRootCauseofHighReturn?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+1. Total Returns vs. Sales (Top Scatter Plot)
+
+    - Each dot represents a category or product.
+    - The X-axis shows the total number of returns.
+    - The Y-axis shows the corresponding sales.
+	
+2. Return Rate by Category (Bar Chart - Middle Left)
+
+    - The return rate for Technology, Office Supplies, and Furniture.
+
+3. Return Rate by Order Date (Bar Chart - Top Right)
+
+    - The return rate distribution by month.
+
+4. Return Rate by State (Map - Middle)
+
+    - A heatmap showing return rates across different states.
+
+5. Return Rate by Customer (Bar Chart - Bottom Left)
+
+    - Each bar represents a customer and their return rate.
+
+7. Return Rate by Product and State (Middle Right)
+
+    - A bar chart showing return rates for different products in various states.
+
+6 Return Rate by Shipping Mode and Category (Bottom Right)
+
+    - The relationship between return rates, shipping methods (First Class, Same Day, Second Class, Standard Class), and product categories.
+	
