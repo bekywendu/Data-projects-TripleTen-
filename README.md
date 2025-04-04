@@ -4,7 +4,8 @@ Projects I worked on while attending the Data Analysis Tripleten Bootcamp.
 
 | Project Number | Title | Description |
 | :-------------: | ----------------------------|---------------------------|
-| 1 | Manhattan Vacation Rental Market Analysis | In this analysis, we identify insights from Airbnb data to determine which neighborhoods and bedroom counts are most popular for vacation rentals. |
+| 1 | Manhattan Vacation Rental Market Analysis | In this analysis, we identify insights from Airbnb data to determine which neighborhoods and bedroom counts are most popular for vacation rentals.
+[Link Text] (https://docs.google.com/spreadsheets/d/1cmawK205wgfhuAp9TgKRd9Z7vyenO21WL69OXXSOGjQ/edit?usp=sharing)|
 | 2 | E-Commerce User Behavior & Retention Analysis | This project focuses on analyzing user interactions and purchase behavior on an e-commerce platform by turning raw event logs into meaningful business metrics |
 | 3 | Saving SuperStore | This project analyzes the Superstore dataset to identify key insights into profits, losses, and customer behavior |
 | 4 | Analyzing and Reducing Return Rates at Superstore | This Tableau dashboard analyzes return trends by examining product categories, customer behavior, shipping methods, and geographical variations. |
